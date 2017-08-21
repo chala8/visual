@@ -1,6 +1,7 @@
 baseurl = "http://example.org/"
 title = "Hugo Website"
 theme = "nix"
+publish = "docs"
 languageCode = "en-us"
 
 [menu]

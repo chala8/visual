@@ -1,4 +1,4 @@
-baseurl = "https://chala8.github.io/visual/"
+baseurl = "https://chala8.github.io/visual/docs"
 title = "Hugo Website"
 theme = "nix"
 publish = "docs"

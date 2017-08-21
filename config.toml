@@ -1,0 +1,25 @@
+baseurl = "http://example.org/"
+title = "Hugo Website"
+theme = "nix"
+languageCode = "en-us"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "chala8"
+  FacebookID = "100007546867476"
+  Name = "Daniel Chala"
+  HeaderUsername = "Daniel"
+  HeaderHostname = "Chala"
+  Email = "daachalabu@unal.edu.co"
+  About = "Hi I'm Daniel and this is my website. I am a developer. I like developing websites using Hugo. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  ProfilePicture = "/profile.jpg"
+
